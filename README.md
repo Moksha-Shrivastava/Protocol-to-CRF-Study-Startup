@@ -26,10 +26,10 @@ This project covers pre-EDC as a project that converts a published clinical tria
 
 ## Repository Structure
 ```
-01 Protocol/          — StudySummary.md
-02 Schedule_of_Assessments/ — SoA.xlsx
-03 CRFs/              — 11 CRF documents (PDF)
-04 Metadata/          — MetadataSpecification.xlsx
+01 CRFs/              — 11 CRF documents (PDF)
+02 Metadata/          — MetadataSpecification.xlsx
+03 Protocol/          — StudySummary.md
+04 Schedule_of_Assessments/ — SoA.xlsx
 06 Traceability/      — RTM.xlsx
 ```
 
