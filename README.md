@@ -9,7 +9,6 @@ This project covers pre-EDC as a project that converts a published clinical tria
 3. CRF package designed based on SoA — 11 forms covering all study assessments
 4. CRF Metadata Specification completed for CDASH alignment — defining fields, data types, controlled terminology, and allowed values
 5. Requirements Traceability Matrix built linking every protocol requirement to the corresponding CRF and field
-6. Edit Check Specification written for the EDC build team
 
 ## Protocol
 - **Protocol:** Breast and Endometrial Safety of Micronised Progesterone Versus Norethisterone Acetate in Menopausal Hormone Therapy (PROBES)
